@@ -1,0 +1,3 @@
+Este é o exemplo 2.
+
+Esta é outra linha do exemplo 2.
